@@ -1,1 +1,1 @@
-# Final-Assignment_Python-Project
+# Identify-and-Invest-Rightly_Python-Project
